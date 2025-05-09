@@ -1,0 +1,8 @@
+version: 1.0.1
+files:
+  - url: shemaia-wispr-1.0.1-setup.exe
+    sha512: 1jzN9MXeEUxJDyJKkeQ8cvuK+EsRlnK2FOuKbVjFN/wfxnXxpY1jlmmxp/9AdEhofBxTzVJMH5WHhSU71sfdHA==
+    size: 92058679
+path: shemaia-wispr-1.0.1-setup.exe
+sha512: 1jzN9MXeEUxJDyJKkeQ8cvuK+EsRlnK2FOuKbVjFN/wfxnXxpY1jlmmxp/9AdEhofBxTzVJMH5WHhSU71sfdHA==
+releaseDate: '2025-05-09T05:05:00.133Z'
