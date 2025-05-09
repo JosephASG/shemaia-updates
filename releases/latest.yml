@@ -1,8 +1,8 @@
-version: 1.0.6
+version: 1.0.7
 files:
   - url: shemaia-wispr.exe
-    sha512: UTYPmM6dGXm0fS6cr7bE6AB2JTl5+wvHoKXeyy+JEdIqoApfr+qjA4TE7mbr/+A8Ey5W8lQwXMSYaQb96igQnQ==
-    size: 92095626
+    sha512: 99xAwAtkrVk3Lgbnnmebp+1wyBF6myqH6PPMm8IZmj1Uk/45asOvXyuDZV379LuoYtxLFRDLZUL0SGaMzB5lOQ==
+    size: 92095525
 path: shemaia-wispr.exe
-sha512: UTYPmM6dGXm0fS6cr7bE6AB2JTl5+wvHoKXeyy+JEdIqoApfr+qjA4TE7mbr/+A8Ey5W8lQwXMSYaQb96igQnQ==
-releaseDate: '2025-05-09T15:29:38.028Z'
+sha512: 99xAwAtkrVk3Lgbnnmebp+1wyBF6myqH6PPMm8IZmj1Uk/45asOvXyuDZV379LuoYtxLFRDLZUL0SGaMzB5lOQ==
+releaseDate: '2025-05-09T15:42:44.492Z'
